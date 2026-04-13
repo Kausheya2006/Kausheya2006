@@ -61,17 +61,6 @@
 | **[CLI-Shark](https://github.com/Kausheya2006)** | Terminal-based packet sniffer. Integrates kernel-level BPF to filter packets early, dropping CPU load by ~60%. Real-time header parsing. | `C` `libpcap` `Networking` |
 | **[Sarthi](https://github.com/Kausheya2006)** | AI travel guide using Bhashini ASR/NMT for real-time translation and OCR. Integrated with Google Gemini for context-aware itineraries. | `Next.js` `FastAPI` `Firebase` |
 
-<br><br>
-
-<h2 align="center">Hackathons & Deployments</h2>
-
-<div align="center">
-  
-**Qualcomm Innovators** ─ *Top 6 of 24 teams (Invited to exhibit AI Tutor at Qualcomm HQ)* <br>
-**DataBlitz (Opencode '25)** ─ *3rd Place @ IIIT-Allahabad* <br>
-**Felicity Hackathon '25** ─ *Finalist @ IIIT-Hyderabad*
-
-<br><br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kausheya2006&show_icons=true&theme=radical&title_color=8A2BE2&text_color=a3a3a3&icon_color=8A2BE2&bg_color=0d1117&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kausheya2006&layout=compact&theme=radical&title_color=8A2BE2&text_color=a3a3a3&icon_color=8A2BE2&bg_color=0d1117&hide_border=true)
