@@ -56,10 +56,9 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[AI-Powered Tutor](https://github.com/Kausheya2006)** | Offline AI tutor running LLaMA-3.2-3B directly on-device. Optimized NPU inference pushing 26-30 tokens/s with a 25ms TTFT. Zero cloud reliance. | `Android` `QAIRT` `Llama` |
-| **[Distributed File System](https://github.com/Kausheya2006)** | Network FS written in C. Features concurrent TCP socket access, a Trie-based index for $O(L)$ lookups (3-4x speedup), and sentence-level locking. | `C` `TCP/IP` `POSIX` |
-| **[CLI-Shark](https://github.com/Kausheya2006)** | Terminal-based packet sniffer. Integrates kernel-level BPF to filter packets early, dropping CPU load by ~60%. Real-time header parsing. | `C` `libpcap` `Networking` |
-| **[Sarthi](https://github.com/Kausheya2006)** | AI travel guide using Bhashini ASR/NMT for real-time translation and OCR. Integrated with Google Gemini for context-aware itineraries. | `Next.js` `FastAPI` `Firebase` |
+| **[AI-Powered Tutor](https://github.com/Kausheya2006/AI_TUTOR2)** | Offline AI tutor running LLaMA-3.2-3B directly on-device. Optimized NPU inference pushing 26-30 tokens/s with a 25ms TTFT. Zero cloud reliance. | `Android` `QAIRT` `Llama` |
+| **[Distributed File System](https://github.com/Kausheya2006/dirty-docs)** | Network FS written in C. Features concurrent TCP socket access, a Trie-based index for $O(L)$ lookups (3-4x speedup), and sentence-level locking. | `C` `TCP/IP` `POSIX` |
+| **[CLI-Shark](https://github.com/Kausheya2006/CLI-shark)** | Terminal-based packet sniffer. Integrates kernel-level BPF to filter packets early, dropping CPU load by ~60%. Real-time header parsing. | `C` `libpcap` `Networking` |
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kausheya2006&show_icons=true&theme=radical&title_color=8A2BE2&text_color=a3a3a3&icon_color=8A2BE2&bg_color=0d1117&hide_border=true)
