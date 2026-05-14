@@ -1,4 +1,3 @@
-<div align="center">
 
 # Kausheya Roy
 
@@ -10,6 +9,8 @@
 | **[Distributed File System](https://github.com/Kausheya2006/dirty-docs)** | Network FS written in C. Features concurrent TCP socket access, a Trie-based index for $O(L)$ lookups (3-4x speedup), and sentence-level locking. | `C` `TCP/IP` `POSIX` |
 | **[CLI-Shark](https://github.com/Kausheya2006/CLI-shark)** | Terminal-based packet sniffer. Integrates kernel-level BPF to filter packets early, dropping CPU load by ~60%. Real-time header parsing. | `C` `libpcap` `Networking` |
 
+
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+IIIT+Hyderabad;Building+On-Device+AI;Low-Level+Networking+Architect;Problem+Solver+%26+Developer" alt="Typing SVG" />
 
