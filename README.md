@@ -2,7 +2,7 @@
 
 # Kausheya Roy
 
-<h2 align="center">Featured Builds</h2>
+## Featured Builds
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
