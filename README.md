@@ -1,37 +1,57 @@
-
 # Kausheya Roy
-
-## Featured Builds
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[AI-Powered Tutor](https://github.com/Kausheya2006/AI_TUTOR2)** | Offline AI tutor running LLaMA-3.2-3B directly on-device. Optimized NPU inference pushing 26-30 tokens/s with a 25ms TTFT. Zero cloud reliance. | `Android` `QAIRT` `Llama` |
-| **[Distributed File System](https://github.com/Kausheya2006/dirty-docs)** | Network FS written in C. Features concurrent TCP socket access, a Trie-based index for $O(L)$ lookups (3-4x speedup), and sentence-level locking. | `C` `TCP/IP` `POSIX` |
-| **[CLI-Shark](https://github.com/Kausheya2006/CLI-shark)** | Terminal-based packet sniffer. Integrates kernel-level BPF to filter packets early, dropping CPU load by ~60%. Real-time header parsing. | `C` `libpcap` `Networking` |
-
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+IIIT+Hyderabad;Building+On-Device+AI;Low-Level+Networking+Architect;Problem+Solver+%26+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+IIIT+Hyderabad;Building+On-Device+AI;Low-Level+Networking+Architect;Problem+Solver+%26+Competitive+Programmer" alt="Typing SVG" />
 
-**Interested in problem-solving and intelligent automation using AI/ML.** <br>
-*Crafting high-performance tools from the kernel to the cloud.*
-
-<br>
+**Interested in problem-solving and intelligent automation using AI/ML.**  
+*Crafting high-performance systems from the kernel layer to the cloud.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=8A2BE2)](https://linkedin.com/in/kausheya-roy-688618310)
 [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=8A2BE2)](https://github.com/Kausheya2006)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%23000000.svg?style=for-the-badge&logo=codeforces&logoColor=8A2BE2)](https://codeforces.com/profile/rimoKR)
 [![Email](https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:royrimo2006@gmail.com)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-%23000000.svg?style=for-the-badge&logo=huggingface&logoColor=8A2BE2)](https://huggingface.co/rimoKR)
 
 </div>
 
-<br><br>
+---
 
-<h2 align="center">Tech Stack & Arsenal</h2>
+## 🚀 Featured Builds
+
+### Applied AI
+
+*   **[ProductLabs AI Form Filler](https://github.com/Kausheya2006/product-based-form-filler)**  
+    *Real-time streaming LLM information extraction pipeline.*
+    *   Engineered a multimodal media layer running **Whisper ASR** and **PyAnnote** acoustic embeddings to automate multi-speaker diarization with under **200 ms** chunk ingestion latency.
+    *   Implemented a custom worker thread pool to balance data translation tasks and **Qwen-2.5-1.5B** inference, dropping peak response latency by **65%**.
+    *   `FastAPI` `Python` `MongoDB` `Qwen-2.5` `Playwright` `PyAnnote` `Whisper ASR`
+
+*   **[AI-Powered Tutor](https://github.com/Kausheya2006/AI_TUTOR2)**  
+    *Offline fully personalized educational client running on the Qualcomm Innovators Dev Kit.*
+    *   Optimized model inference routines directly on the edge hardware NPU via QAIRT.
+    *   Pushed compilation throughput from $\sim 3$ tokens/s to **26–30 tokens/s** and slashed Time-To-First-Token (TTFT) down to **25 ms**.
+    *   `Android (Java)` `QAIRT` `Genie SDK` `LLaMA-3.2-3B` `Qualcomm NPU`
+
+### Low-Level Systems & Networks
+
+*   **[Distributed File System](https://github.com/Kausheya2006/dirty-docs)**  
+    *High-reliability network file system supporting concurrent client read/write access.*
+    *   Replaced classic linear file path scans with a thread-safe **Trie-based index**, optimization complexity down to $O(L)$ for a **3–4$\times$** resolution speedup.
+    *   Enforced operational stability using sentence-level locks, fault-tolerant replication checkpoints, and automated tracking maps.
+    *   `C` `TCP/IP Stack` `POSIX Threads`
+
+*   **[CLI-Shark](https://github.com/Kausheya2006/CLI-shark)**  
+    *Terminal-based high-throughput packet sniffing tool for real-time network debugging.*
+    *   Integrated **Berkeley Packet Filters (BPF)** directly at the kernel layer to drop noisy frame processing early, reducing CPU load metrics by **$\sim 60\%$**.
+    *   Parses Ethernet, IP, and TCP/UDP transport wrappers on raw operational boundaries.
+    *   `C` `libpcap` `POSIX Networking` `TCP/IP`
+
+---
+
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
-  
+
 ### Core Languages
 ![C](https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=8A2BE2)
 ![C++](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=8A2BE2)
@@ -60,9 +80,13 @@
 
 </div>
 
-<br><br>
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kausheya2006&show_icons=true&theme=radical&title_color=8A2BE2&text_color=a3a3a3&icon_color=8A2BE2&bg_color=0d1117&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kausheya2006&layout=compact&theme=radical&title_color=8A2BE2&text_color=a3a3a3&icon_color=8A2BE2&bg_color=0d1117&hide_border=true)
+## 📊 Git Diagnostics
+
+<div align="center">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kausheya2006&show_icons=true&theme=radical&title_color=8A2BE2&text_color=a3a3a3&icon_color=8A2BE2&bg_color=0d1117&hide_border=true" alt="Kausheya's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kausheya2006&layout=compact&theme=radical&title_color=8A2BE2&text_color=a3a3a3&icon_color=8A2BE2&bg_color=0d1117&hide_border=true" alt="Top Languages" width="48%" />
 
 </div>
