@@ -42,7 +42,7 @@
 
 *   **[CLI-Shark](https://github.com/Kausheya2006/CLI-shark)**  
     *Terminal-based high-throughput packet sniffing tool for real-time network debugging.*
-    *   Integrated **Berkeley Packet Filters (BPF)** directly at the kernel layer to drop noisy frame processing early, reducing CPU load metrics by **$\sim 60\%$**.
+    *   Integrated **Berkeley Packet Filters (BPF)** directly at the kernel layer to drop noisy frame processing early, reducing CPU load metrics by $\sim$ 60 %.
     *   Parses Ethernet, IP, and TCP/UDP transport wrappers on raw operational boundaries.
     *   `C` `libpcap` `POSIX Networking` `TCP/IP`
 
