@@ -32,6 +32,15 @@
     *   Pushed compilation throughput from $\sim 3$ tokens/s to **26–30 tokens/s** and slashed Time-To-First-Token (TTFT) down to **25 ms**.
     *   `Android (Java)` `QAIRT` `Genie SDK` `LLaMA-3.2-3B` `Qualcomm NPU`
 
+### Computer Vision
+
+*   **[Cricket Match Timeline Generator](https://github.com/Kausheya2006/Cricket-Analytics)**  
+    *CV and OCR pipeline that parses raw cricket videos into ball-by-ball text timelines.*
+    *   Trained two custom **ResNet18** models (modified for 1-channel grayscale) to track bowler action and predict exact ball-release timestamps.
+    *   Paired **PaddleOCR** with a custom state machine to read the broadcast scoreboard at those specific frames and infer missing data like wides or occluded scores.
+    *   Built an interactive CLI tool with smart caching to avoid running heavy GPU inferences twice.
+    *   `PyTorch` `OpenCV` `PaddleOCR` `Python`
+
 ### Low-Level Systems & Networks
 
 *   **[Distributed File System](https://github.com/Kausheya2006/dirty-docs)**  
