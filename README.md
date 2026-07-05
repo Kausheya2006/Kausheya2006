@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Featured Builds
+## 1. Featured Builds
 
 ### Applied AI
 
@@ -55,9 +55,18 @@
     *   Parses Ethernet, IP, and TCP/UDP transport wrappers on raw operational boundaries.
     *   `C` `libpcap` `POSIX Networking` `TCP/IP`
 
+### For fun
+
+* **[AmbientSynth](https://github.com/Kausheya2006/AmbientSynth)**  
+  *Cross-platform terminal-based MIDI piano synthesizer with real-time audio effects and dynamic backend selection.*
+  * Dynamic audio backend selection for seamless playback across **macOS**, **Linux**, and **Windows**.
+  * Supports live adjustment of **sustain**, **reverb**, **chorus**, and **expression** parameters during performance.
+  * Built with **FluidSynth** for SoundFont synthesis and **mido** for low-latency MIDI input handling.
+  * `Python` `FluidSynth` `SoundFont` `MIDI`
+
 ---
 
-## 🛠️ Tech Stack & Arsenal
+## 2. Tech Stack & Skills
 
 <div align="center">
 
@@ -91,7 +100,7 @@
 
 ---
 
-## 📊 Git Diagnostics
+##  Git Diagnostics
 
 <div align="center">
 
