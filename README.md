@@ -92,6 +92,7 @@
 ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=8A2BE2)
 ![Docker](https://img.shields.io/badge/Docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=8A2BE2)
 ![Google Cloud](https://img.shields.io/badge/GCP-%23000000.svg?style=for-the-badge&logo=googlecloud&logoColor=8A2BE2)
+![AWS](https://img.shields.io/badge/AWS-%23000000.svg?style=for-the-badge&logo=amazonwebservices&logoColor=8A2BE2)
 ![Git](https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=8A2BE2)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=for-the-badge&logo=mongodb&logoColor=8A2BE2)
 ![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=8A2BE2)
@@ -106,5 +107,9 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kausheya2006&show_icons=true&theme=radical&title_color=8A2BE2&text_color=a3a3a3&icon_color=8A2BE2&bg_color=0d1117&hide_border=true" alt="Kausheya's GitHub Stats" width="48%" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kausheya2006&layout=compact&theme=radical&title_color=8A2BE2&text_color=a3a3a3&icon_color=8A2BE2&bg_color=0d1117&hide_border=true" alt="Top Languages" width="48%" />
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kausheya2006&bg_color=00000000&color=8A2BE2&line=4f46e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
 </div>
