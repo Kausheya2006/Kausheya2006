@@ -4,8 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+IIIT+Hyderabad;Building+On-Device+AI;Low-Level+Networking+Architect;Problem+Solver+%26+Competitive+Programmer" alt="Typing SVG" />
 
-**Interested in problem-solving and intelligent automation using AI/ML.**  
-*Crafting high-performance systems from the kernel layer to the cloud.*
+**Interested in building systems from scratch**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=8A2BE2)](https://linkedin.com/in/kausheya-roy-688618310)
 [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=8A2BE2)](https://github.com/Kausheya2006)
@@ -108,8 +107,8 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kausheya2006&show_icons=true&theme=radical&title_color=8A2BE2&text_color=a3a3a3&icon_color=8A2BE2&bg_color=0d1117&hide_border=true" alt="Kausheya's GitHub Stats" width="48%" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kausheya2006&layout=compact&theme=radical&title_color=8A2BE2&text_color=a3a3a3&icon_color=8A2BE2&bg_color=0d1117&hide_border=true" alt="Top Languages" width="48%" />
 
-<p align="center">
+<!--<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kausheya2006&bg_color=00000000&color=8A2BE2&line=4f46e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+</p>-->
 
 </div>
