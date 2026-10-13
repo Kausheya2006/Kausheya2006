@@ -20,13 +20,13 @@
 ### Applied AI
 
 *   **[ProductLabs AI Form Filler](https://github.com/Kausheya2006/product-based-form-filler)**  
-    *Real-time streaming LLM information extraction pipeline.*
-    *   Engineered a multimodal media layer running **Whisper ASR** and **PyAnnote** acoustic embeddings to automate multi-speaker diarization with under **200 ms** chunk ingestion latency.
+    *Real-time information extraction pipeline to fill structured forms from live audio/text conversations.*
+    *   Built a multimodal media layer running **Whisper ASR** and **PyAnnote** acoustic embeddings to automate multi-speaker diarization with under **200 ms** chunk ingestion latency.
     *   Implemented a custom worker thread pool to balance data translation tasks and **Qwen-2.5-1.5B** inference, dropping peak response latency by **65%**.
     *   `FastAPI` `Python` `MongoDB` `Qwen-2.5` `Playwright` `PyAnnote` `Whisper ASR`
 
 *   **[AI-Powered Tutor](https://github.com/Kausheya2006/AI_TUTOR2)**  
-    *Offline fully personalized educational client running on the Qualcomm Innovators Dev Kit.*
+    *Offline fully personalized AI-based tutor running on the Qualcomm Innovators Dev Kit.*
     *   Optimized model inference routines directly on the edge hardware NPU via QAIRT.
     *   Pushed compilation throughput from $\sim 3$ tokens/s to **26–30 tokens/s** and slashed Time-To-First-Token (TTFT) down to **25 ms**.
     *   `Android (Java)` `QAIRT` `Genie SDK` `LLaMA-3.2-3B` `Qualcomm NPU`
@@ -49,15 +49,15 @@
     *   `C` `TCP/IP Stack` `POSIX Threads`
 
 *   **[CLI-Shark](https://github.com/Kausheya2006/CLI-shark)**  
-    *Terminal-based high-throughput packet sniffing tool for real-time network debugging.*
-    *   Integrated **Berkeley Packet Filters (BPF)** directly at the kernel layer to drop noisy frame processing early, reducing CPU load metrics by $\sim$ 60 %.
+    *Terminal-based high-throughput packet sniffing tool for real-time network.*
+    *   Integrated **BPF filtering** directly at the kernel layer to drop noisy frame processing early, reducing CPU load metrics by $\sim$ 60 %.
     *   Parses Ethernet, IP, and TCP/UDP transport wrappers on raw operational boundaries.
     *   `C` `libpcap` `POSIX Networking` `TCP/IP`
 
 ### For fun
 
 * **[AmbientSynth](https://github.com/Kausheya2006/AmbientSynth)**  
-  *Cross-platform terminal-based MIDI piano synthesizer with real-time audio effects and dynamic backend selection.*
+  *Cross-platform terminal-based MIDI piano synthesizer with real-time audio effects.*
   * Dynamic audio backend selection for seamless playback across **macOS**, **Linux**, and **Windows**.
   * Supports live adjustment of **sustain**, **reverb**, **chorus**, and **expression** parameters during performance.
   * Built with **FluidSynth** for SoundFont synthesis and **mido** for low-latency MIDI input handling.
