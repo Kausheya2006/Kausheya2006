@@ -20,12 +20,14 @@
 ### Applied AI
 
 *   **[ProductLabs AI Form Filler](https://github.com/Kausheya2006/product-based-form-filler)**  
+
     *Real-time information extraction pipeline to fill structured forms from live audio/text conversations.*
     *   Built a multimodal media layer running **Whisper ASR** and **PyAnnote** acoustic embeddings to automate multi-speaker diarization with under **200 ms** chunk ingestion latency.
     *   Implemented a custom worker thread pool to balance data translation tasks and **Qwen-2.5-1.5B** inference, dropping peak response latency by **65%**.
     *   `FastAPI` `Python` `MongoDB` `Qwen-2.5` `Playwright` `PyAnnote` `Whisper ASR`
 
 *   **[AI-Powered Tutor](https://github.com/Kausheya2006/AI_TUTOR2)**  
+
     *Offline fully personalized AI-based tutor running on the Qualcomm Innovators Dev Kit.*
     *   Optimized model inference routines directly on the edge hardware NPU via QAIRT.
     *   Pushed compilation throughput from $\sim 3$ tokens/s to **26–30 tokens/s** and slashed Time-To-First-Token (TTFT) down to **25 ms**.
@@ -34,6 +36,7 @@
 ### Computer Vision
 
 *   **[Cricket Match Timeline Generator](https://github.com/Kausheya2006/Cricket-Analytics)**  
+
     *CV and OCR pipeline that parses raw cricket videos into ball-by-ball text timelines.*
     *   Trained two custom **ResNet18** models (modified for 1-channel grayscale) to track bowler action and predict exact ball-release timestamps.
     *   Paired **PaddleOCR** with a custom state machine to read the broadcast scoreboard at those specific frames and infer missing data like wides or occluded scores.
@@ -43,12 +46,14 @@
 ### Low-Level Systems & Networks
 
 *   **[Distributed File System](https://github.com/Kausheya2006/dirty-docs)**  
+
     *High-reliability network file system supporting concurrent client read/write access.*
-    *   Replaced classic linear file path scans with a thread-safe **Trie-based index**, optimization complexity down to $O(L)$ for a **3–4$\times$** resolution speedup.
+    *   Replaced classic linear file path scans with a thread-safe **Trie-based index**, optimization complexity down to $O(L)$ for a **3–4 times** resolution speedup.
     *   Enforced operational stability using sentence-level locks, fault-tolerant replication checkpoints, and automated tracking maps.
     *   `C` `TCP/IP Stack` `POSIX Threads`
 
 *   **[CLI-Shark](https://github.com/Kausheya2006/CLI-shark)**  
+
     *Terminal-based high-throughput packet sniffing tool for real-time network.*
     *   Integrated **BPF filtering** directly at the kernel layer to drop noisy frame processing early, reducing CPU load metrics by $\sim$ 60 %.
     *   Parses Ethernet, IP, and TCP/UDP transport wrappers on raw operational boundaries.
@@ -57,6 +62,7 @@
 ### For fun
 
 * **[AmbientSynth](https://github.com/Kausheya2006/AmbientSynth)**  
+
   *Cross-platform terminal-based MIDI piano synthesizer with real-time audio effects.*
   * Dynamic audio backend selection for seamless playback across **macOS**, **Linux**, and **Windows**.
   * Supports live adjustment of **sustain**, **reverb**, **chorus**, and **expression** parameters during performance.
@@ -64,7 +70,8 @@
   * `Python` `FluidSynth` `SoundFont` `MIDI`
 
 * **[Lift](https://github.com/Kausheya2006/Lift-tracker)**
-  *Simple and offline app to track gym-progress for Android
+  
+  *Simple and offline app to track gym-progress for Android.*
   * Create own workout routine
   * Track progress and PR
   * `Android`, `Java`, `html`
