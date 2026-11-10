@@ -63,6 +63,12 @@
   * Built with **FluidSynth** for SoundFont synthesis and **mido** for low-latency MIDI input handling.
   * `Python` `FluidSynth` `SoundFont` `MIDI`
 
+* **[Lift](https://github.com/Kausheya2006/Lift-tracker)**
+  *Simple and offline app to track gym-progress for Android
+  * Create own workout routine
+  * Track progress and PR
+  * `Android`, `Java`, `html`
+    
 ---
 
 ## 2. Tech Stack & Skills
